@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="163fef20-e3bd-4f1e-a892-c7d91221dde1" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/ticket-buying/public/assets/img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ticket-buying" beforeDir="false" afterPath="$PROJECT_DIR$/ticket-buying" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ticket-buying/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ticket-buying/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ticket-buying/public/favicon.ico" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ticket-buying/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ticket-buying/public/index.html" afterDir="false" />
@@ -86,7 +87,7 @@
       <workItem from="1716010443428" duration="13544000" />
       <workItem from="1716025932466" duration="190000" />
       <workItem from="1716026326860" duration="8978000" />
-      <workItem from="1716081007543" duration="8993000" />
+      <workItem from="1716081007543" duration="9588000" />
     </task>
     <servers />
   </component>
